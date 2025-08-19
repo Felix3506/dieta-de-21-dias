@@ -189,7 +189,7 @@ dieta de 21 dias
               <h4 class="font-bold text-lg">Roberto, 50 anos</h4>
               <div class="flex text-yellow-400">
                 ★ ★ ★ ★ ★
-              </div>
+              </div>QUERO EMAGRECER AGORA!
             </div>
           </div>
           <p class="italic text-gray-700">"Como médico, fiquei impressionado com a qualidade científica do conteúdo. Apliquei em mim mesmo e reduzi meu colesterol junto com 8kg em 2 meses. Agora recomendo para meus pacientes!"</p>
